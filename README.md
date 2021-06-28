@@ -4,7 +4,7 @@
 
 ## 使用
 
-	git clone https://github.com/evi1hack/diy-vim.git ~/.vimrc
+	wget https://git.io/diy-vim -O ~/.vimrc
 
 ## 插件
  -	使用 <a href="https://github.com/junegunn/vim-plug">vim-plug</a>
